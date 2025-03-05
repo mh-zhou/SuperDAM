@@ -1,4 +1,4 @@
-# SuperDAM (ICCV 2025)
+# SuperDAM 
 ```
 SuperDAM
 ├── 2d-data(jpg/png...)
