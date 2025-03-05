@@ -1,4 +1,4 @@
-# SuperDAM 
+# SuperDAM Dateset-split
 ```
 SuperDAM
 ├── 2d-data(jpg/png...)
@@ -25,16 +25,15 @@ SuperDAM
 │   │   │   │── val/*
 ```
 
-
 ```
 SuperDAM
 ├── 3d-data(.nii)
 │   ├── AD-MRI
-│   │   │── 1/
-│   │   │── MildDemented(*)
-│   │   │── ModerateDemented(*)
-│   │   │── NonDemented(*)
-│   │   │   │── train/*
-│   │   │   │── val/*
-
+│   │   │── 3dAD
+│   │   │── 3dCN
+│   │   │── Preprocessed/
+│   │   │   │── AD/.nii/
+│   │   │   │── CN/.nii/
+│   │   │   │── ~fold_CNvsAD_0/1/2/3/4.csv
+│   │   │   │── ~combined_train_list_0/1/2.csv
 ```
