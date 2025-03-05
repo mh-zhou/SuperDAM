@@ -1,3 +1,17 @@
+## Getting Started
+
+### Dependency
+Our released implementation is tested on(2D-Best&3D).
++ Python 3.9.19 
++ PyTorch 2.0.1
++ NVIDIA CUDA 11.8
++ NVIDIA Geforce RTX 4090 GPUs
+
+We also tested on(2D&3D-Best).
++ Python 3.8.20 
++ PyTorch 1.12.1
++ NVIDIA CUDA 11.3
++ NVIDIA Geforce RTX 3090 GPUs
 # SuperDAM Dateset-split
 ```
 SuperDAM
