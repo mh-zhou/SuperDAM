@@ -1,6 +1,6 @@
 ## Getting Started
 ## Main
-
+[DGM.pdf](https://github.com/user-attachments/files/19156733/DGM.pdf)
 ### Dependency
 Our released implementation is tested on(2D-Best&3D).
 + Python 3.9.19 
