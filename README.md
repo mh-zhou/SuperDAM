@@ -1,5 +1,5 @@
 ## Getting Started
-## Main
+## Core Part:
 ![DGM](https://github.com/user-attachments/assets/9b20e826-1586-497e-9be5-455398bef0c7)
 ![DCL](https://github.com/user-attachments/assets/75627220-a7d3-4026-9964-765ae5467201)
 ### Dependency
