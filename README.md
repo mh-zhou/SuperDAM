@@ -58,4 +58,5 @@ SuperDAM
 │   │   │   │── ~fold_CNvsAD_0/1/2/3/4.csv
 │   │   │   │── ~combined_train_list_0/1/2.csv
 ```
-# To be CONTINUE.
+# To be CONTINUE
+- More information, you can contact us: sjtutsb@sjtu.edu.cn & tonxycs@gmail.com[Preferred]
