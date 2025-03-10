@@ -1,8 +1,8 @@
 ## Getting Started
 ## Core Part:
 ![DGM](https://github.com/user-attachments/assets/9b20e826-1586-497e-9be5-455398bef0c7)
-Notes： Dynamic Grouping Mechanism (DGM), the core of SuperDAM, centralizes DCL by generating, weighting, and adjusting dynamic features. These features are then processed through grouped convolution to extract critical
-channel-wise information.
+Notes： Dynamic Grouping Mechanism (DGM), the core of SuperDAM, centralizes DCL by generating, weighting, and adjusting dynamic features. These features are then processed through grouped convolution to extract critical channel-wise information.
+
 
 ![DCL](https://github.com/user-attachments/assets/83d81825-eb62-4375-8bd7-c87eb3756a3b)
 Notes: ##
