@@ -1,6 +1,8 @@
 ## Getting Started
 ## Main
-[DGM.pdf](https://github.com/user-attachments/files/19156733/DGM.pdf)
+![DGM](https://github.com/user-attachments/assets/a11a0d62-542e-4551-ba7c-cbdbfc3ff50d)
+![tonxycs](https://github.com/user-attachments/assets/28513f87-9f33-4145-a65b-56c34c88d0e6)
+
 ### Dependency
 Our released implementation is tested on(2D-Best&3D).
 + Python 3.9.19 
