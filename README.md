@@ -1,5 +1,5 @@
 # To be CONTINUE
-- More information, you can contact us :sjtutsb@sjtu.edu.cn, {[mhzhou0412](mhzhou0412@gmail.com); [tonxycs](tonxycs@gmail.com)}@gmail.com[preferred]
+- More information, you can contact us : sjtutsb@sjtu.edu.cn, {[mhzhou0412](mhzhou0412@gmail.com); [tonxycs](tonxycs@gmail.com)}@gmail.com [preferred]
   
 ## Core Part:
 ![DGM](https://github.com/user-attachments/assets/9b20e826-1586-497e-9be5-455398bef0c7)
